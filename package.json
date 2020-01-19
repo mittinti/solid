@@ -1,0 +1,26 @@
+{
+  "name": "solid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mittinti/solid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mittinti/solid/issues"
+  },
+  "homepage": "https://github.com/mittinti/solid#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "nodemon": "^2.0.2",
+    "request": "^2.88.0",
+    "toastr": "^2.1.4"
+  }
+}
